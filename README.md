@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=himmu1144&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=himmu1144&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!--
 **Himmu1144/himmu1144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
