@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-I'm an full-stack developer and an Ai Enthusiast building projects to solve real world problems one step at a time. 
+I'm an full-stack developer and an Ai Enthusiast building projects to solve real world problems one step at a time.<br/>
 ![](https://github-readme-stats.vercel.app/api?username=himmu1144&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
